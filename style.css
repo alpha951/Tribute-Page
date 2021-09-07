@@ -7,6 +7,7 @@ span {
 #tribute-info {
   width: 85%;
   margin: 0 auto;
+  line-height:1.6;
 }
 li {
   text-align: left;
