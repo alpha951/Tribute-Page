@@ -1,0 +1,46 @@
+#main {
+  text-align: center;
+}
+span {
+  font-weight: bold;
+}
+#tribute-info {
+  width: 50%;
+  margin: 0 auto;
+}
+li {
+  text-align: left;
+}
+#header {
+  display: block;
+  background-color: #e6e6e6;
+  padding: 45px 0px 56px 0px;
+}
+#img-caption {
+  padding: 10px 0px 5px 0px;
+  text-decoration: solid;
+}
+#img-div {
+  background-color: #f0f8ff;
+  display: block;
+}
+#mid-part {
+  background-color: #e6e6e6;
+}
+#quote {
+  font-style: italic;
+  font-weight: 300;
+}
+div {
+  display: inline-block;
+  padding: 0px;
+  margin-left: -4px;
+}
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
