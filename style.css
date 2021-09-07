@@ -5,7 +5,7 @@ span {
   font-weight: bold;
 }
 #tribute-info {
-  width: 50%;
+  width: 85%;
   margin: 0 auto;
 }
 li {
@@ -19,6 +19,7 @@ li {
 #img-caption {
   padding: 10px 0px 5px 0px;
   text-decoration: solid;
+  width : 80%;
 }
 #img-div {
   background-color: #f0f8ff;
